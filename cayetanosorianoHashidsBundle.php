@@ -1,9 +1,9 @@
 <?php
 
-namespace cayetanosoriano\HashidsBundle;
+namespace Cayetanosoriano\HashidsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class cayetanosorianoHashidsBundle extends Bundle
+class CayetanosorianoHashidsBundle extends Bundle
 {
 }
